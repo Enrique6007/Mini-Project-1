@@ -1,2 +1,1 @@
-# Mini-Project-1
-art
+The project has some stairs going up or down and also there are some lines that cross each other.
